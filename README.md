@@ -1,16 +1,73 @@
-# React + Vite
+**🏥 Community Health Appointment Booking System**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+***🎓 MSc Dissertation Project***
 
-Currently, two official plugins are available:
+**Title**: Improving Accessibility and Usability of a Web Application Using User-Centred Design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Author**: Md. Bayazid Hossain
 
-## React Compiler
+**Programme**: MSc Software Engineering
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**University**: University of Hertfordshire
 
-## Expanding the ESLint configuration
+**Year**: 2026
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Overview
+
+This project presents a research-driven web application developed as part of an MSc dissertation. The aim is to investigate how user-centred design (UCD) principles can improve both accessibility and usability in modern web systems.
+
+The application simulates a community health appointment booking platform where users can browse services, view details, and book appointments through a structured interface. The system is intentionally designed as a prototype to support evaluation and redesign rather than production deployment.
+
+The project combines practical frontend development with human–computer interaction (HCI) methodologies to bridge the gap between theory and real-world implementation.
+
+## 🎯 Research Focus
+
+This project is not just about building a website. It focuses on:
+
+- Applying User-Centred Design (UCD)
+- Evaluating usability using Heuristic Evaluation (Nielsen)
+- Assessing accessibility using WCAG 2.1 guidelines
+- Performing iterative redesign and improvement
+- Comparing interface quality before and after redesign
+
+## 🚀 Key Features
+🩺 Browse community health services
+
+👨‍⚕️ View service / doctor information
+
+📅 Book appointments via structured forms
+
+⚠️ Form validation with clear error messages
+
+♿ Accessibility-aware interface design
+
+📖 Dedicated accessibility help section
+
+## 🛠️ Technologies Used
+- React.js (Frontend Framework)
+- Tailwind CSS (UI Styling)
+- React Router (Navigation)
+
+## 🧪 Methodology
+
+The project follows an iterative and research-based process:
+
+- Develop initial prototype (Version 1)
+- Conduct usability evaluation (Heuristic Inspection)
+- Perform accessibility audit (WCAG 2.1)
+- Identify interface issues
+- Redesign the application
+- Re-evaluate and compare improvements
+
+## 📊 Project Contribution
+
+This project demonstrates how structured evaluation frameworks can be applied to:
+
+- Identify usability problems
+- Improve accessibility compliance
+- Enhance overall user experience
+- Translate HCI theory into practical solutions
+
+## 📖 Academic Purpose
+
+This project is developed for academic research purposes as part of an MSc dissertation. It focuses on applying theoretical concepts in usability and accessibility to a real-world web application scenario.
