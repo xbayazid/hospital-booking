@@ -11,6 +11,7 @@
 **University**: University of Hertfordshire
 
 **Year**: 2026
+[Read the paper here](https://drive.google.com/file/d/1MmMH7PEdhg9Utiy8b0cZw_bGjTSyb3gR/view?usp=sharing)
 
 ## 📌 Overview
 
